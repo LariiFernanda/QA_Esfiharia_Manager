@@ -4,8 +4,8 @@
 
 **Sistema:** Esfiharia Manager  
 **Tipo:** Execução manual de QA  
-**Data:** A preencher  
-**Responsável:** A preencher
+**Data:** 19/10/2025  
+**Responsável:** Arthur, Felype, Larissa
 
 ## 2. Resumo da execução
 
