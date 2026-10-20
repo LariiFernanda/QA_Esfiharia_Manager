@@ -9,7 +9,6 @@
 
 ## 2. Resumo da execução
 
-> Os casos foram preparados, porém este relatório deve ser atualizado conforme a execução real.
 
 | Métrica | Quantidade |
 |---|---:|
@@ -56,4 +55,4 @@ A rodada será concluída após:
 
 ## 5. Conclusão
 
-Ainda não há conclusão de qualidade nesta versão, pois os casos estão preparados para execução. O resultado final deverá refletir exclusivamente os testes realizados no sistema.
+
